@@ -2,6 +2,24 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Landing page
+
+![landing page portfolio template](https://user-images.githubusercontent.com/93376968/154811235-22c660f4-e65d-411f-b239-4f26895d0e2d.png)
+
+### skill section
+
+
+![portfolio template 2](https://user-images.githubusercontent.com/93376968/154811385-6d2702fc-7b9c-4705-8c71-3e1e829f16f3.png)
+
+### Project section
+
+![project section](https://user-images.githubusercontent.com/93376968/154811440-55897bba-d1ee-403e-b776-58c20fd0d268.png)
+
+### Contact section
+
+![contect section](https://user-images.githubusercontent.com/93376968/154811485-55c2b719-7822-4b70-9f81-ffbc5f84db49.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -30,22 +48,6 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Landing page
-
-![landing page portfolio template](https://user-images.githubusercontent.com/93376968/154811235-22c660f4-e65d-411f-b239-4f26895d0e2d.png)
-
-### skill section
-
-
-![portfolio template 2](https://user-images.githubusercontent.com/93376968/154811385-6d2702fc-7b9c-4705-8c71-3e1e829f16f3.png)
-
-### Project section
-
-![project section](https://user-images.githubusercontent.com/93376968/154811440-55897bba-d1ee-403e-b776-58c20fd0d268.png)
-
-### Contact section
-
-![contect section](https://user-images.githubusercontent.com/93376968/154811485-55c2b719-7822-4b70-9f81-ffbc5f84db49.png)
 
 ## Learn More
 
